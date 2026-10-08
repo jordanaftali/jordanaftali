@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Jordana Naftali
 
-<!--
-**jordanaftali/jordanaftali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Design Engineer · Content Engineering · DevEx**
+Austin, Texas · originally from Brazil yaay I'm a tropical plant.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Community:** Python is people, not just a language
+- **Design engineering:** turning design into working, reusable components and design systems
+- **Content engineering:** maintaining documentation and making sure content follows guidelines before it ships
+- **Human-in-the-loop AI:** Python and Claude prototypes where every important action waits for human approval
+
+
+## Featured projects
+
+**[Gym Staff Agents](https://github.com/jordanaftali/gym-staff-agents)**
+A coordinator and four AI helper agents that run a gym's daily tasks. Refunds,
+bookings and orders wait for a human to approve them. Python, Claude, tested offline.
+[Try the live demo](https://jordanaftali.github.io/gym-staff-agents)
+
+**[Pharmacist-in-the-loop prototype](https://case-study-2026.netlify.app/)**
+A Django prototype with sample data that flags prescription-data issues and
+requires a pharmacist to approve each one.
+
+**[Digital Literacy](https://github.com/jordanaftali/digital-literacy)**
+A tutorial builder that helps educators create step-by-step guides for
+first-time internet users, with a low-bandwidth mode.
+
+## Community and speaking
+
+- Organizer at **PyLadies ATX**
+- Former organizer at **PUG-SE**, the Python User Group of Sergipe, Brazil, where my Python journey started
+- Speaker at **PySanAntonio** (2026): a talk on "AI slop"
+- Talks and slides: [speaking-and-community](https://github.com/jordanaftali/speaking-and-community)
+
+## Currently
+
+- Learning: Harvard CS50's Introduction to AI with Python
+- Building: more human-in-the-loop tools for the strength training and sports world
+- Off the keyboard: strength training, jiu jitsu and Texas state parks
+
+## Tools
+
+Python · Django · Claude · Figma · Grafana · Git · Design systems · Technical writing
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/jordananlima/)
