@@ -28,9 +28,8 @@ first-time internet users, with a low-bandwidth mode.
 
 ## Community and speaking
 
-- Organizer at **PyLadies ATX**
 - Former organizer at **PUG-SE**, the Python User Group of Sergipe, Brazil, where my Python journey started
-- Speaker at **PySanAntonio** (2026): a talk on "AI slop"
+- **PySanAntonio** (2026): a talk on "AI slop"
 - Talks and slides: [speaking-and-community](https://github.com/jordanaftali/speaking-and-community)
 
 ## Currently
