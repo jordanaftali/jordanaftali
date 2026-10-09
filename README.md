@@ -10,7 +10,7 @@ Austin, Texas · originally from Brazil yaay I'm a tropical plant.
 - **Content engineering:** maintaining documentation and making sure content follows guidelines before it ships
 
 
-## Featured projects
+## Projects
 
 **[Gym Staff Agents](https://github.com/jordanaftali/gym-staff-agents)**
 A coordinator and four AI helper agents that run a gym's daily tasks. Refunds,
@@ -25,7 +25,7 @@ requires a pharmacist to approve each one.
 A tutorial builder that helps educators create step-by-step guides for
 first-time internet users, with a low-bandwidth mode.
 
-## Community and speaking
+## Community
 
 - Former organizer at **PUG-SE**, the Python User Group of Sergipe, Brazil, where my Python journey started
 - **PySanAntonio** (2026): a talk on "AI slop"
