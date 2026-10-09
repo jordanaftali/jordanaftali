@@ -8,7 +8,6 @@ Austin, Texas · originally from Brazil yaay I'm a tropical plant.
 - **Community:** Python is people, not just a language
 - **Design engineering:** turning design into working, reusable components and design systems
 - **Content engineering:** maintaining documentation and making sure content follows guidelines before it ships
-- **Human-in-the-loop AI:** Python and Claude prototypes where every important action waits for human approval
 
 
 ## Featured projects
@@ -33,14 +32,11 @@ first-time internet users, with a low-bandwidth mode.
 - Talks and slides: [speaking-and-community](https://github.com/jordanaftali/speaking-and-community)
 
 ## Currently
-
-- Learning: Harvard CS50's Introduction to AI with Python
-- Building: more human-in-the-loop tools for the strength training and sports world
-- Off the keyboard: strength training, jiu jitsu and Texas state parks
+- Off the keyboard: strength training, jiu jitsu and Texas parks o/
 
 ## Tools
 
-Python · Django · Claude · Figma · Grafana · Git · Design systems · Technical writing
+Python · Django · Claude · Grafana · Git · Design systems · Technical writing
 
 ## Find me
 
