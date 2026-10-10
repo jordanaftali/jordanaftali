@@ -3,13 +3,6 @@
 **Design Engineer · Content Engineering · DevEx**
 Austin, Texas · originally from Brazil yaay I'm a tropical plant.
 
-## What I do
-
-- **Community:** Python is people, not just a language
-- **Design engineering:** turning design into working, reusable components and design systems
-- **Content engineering:** maintaining documentation and making sure content follows guidelines before it ships
-
-
 ## Projects
 
 **[Gym Staff Agents](https://github.com/jordanaftali/gym-staff-agents)**
