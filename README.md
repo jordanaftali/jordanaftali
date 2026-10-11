@@ -21,7 +21,7 @@ first-time internet users, with a low-bandwidth mode.
 - Talks and slides: [speaking-and-community](https://github.com/jordanaftali/speaking-and-community)
 
 ## Currently
-- Off the keyboard: strength training, jiu jitsu and Texas parks o/
+- Off the keyboard: strength training, jiu jitsu and texas parks o/
 
 ## Tools
 
