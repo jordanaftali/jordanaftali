@@ -10,10 +10,6 @@ A coordinator and four AI helper agents that run a gym's daily tasks. Refunds,
 bookings and orders wait for a human to approve them. Python, Claude, tested offline.
 [Try the live demo](https://jordanaftali.github.io/gym-staff-agents)
 
-**[Pharmacist-in-the-loop prototype](https://case-study-2026.netlify.app/)**
-A Django prototype with sample data that flags prescription-data issues and
-requires a pharmacist to approve each one.
-
 **[Digital Literacy](https://github.com/jordanaftali/digital-literacy)**
 A tutorial builder that helps educators create step-by-step guides for
 first-time internet users, with a low-bandwidth mode.
