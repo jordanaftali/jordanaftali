@@ -1,7 +1,7 @@
 # Hi, I'm Jordana Naftali
 
 **Design Engineer · Content Engineering · DevEx**
-Austin, Texas · originally from Brazil yaay I'm a tropical plant.
+Austin, Texas · originally from Brazil yaay
 
 ## Projects
 
