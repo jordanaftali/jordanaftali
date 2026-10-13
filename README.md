@@ -18,7 +18,7 @@ first-time internet users, with a low-bandwidth mode.
 
 - Former organizer at **PUG-SE**, the Python User Group of Sergipe, Brazil, where my Python journey started
 - **PySanAntonio** (2026): a talk on "AI slop"
-- Talks and slides: [speaking-and-community](https://github.com/jordanaftali/speaking-and-community)
+- Talks and slides: (https://github.com/jordanaftali/speaking-and-community)
 
 ## Currently
 - Off the keyboard: strength training, jiu jitsu and texas parks o/
